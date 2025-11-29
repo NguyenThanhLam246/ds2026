@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Nguyen Thanh Lam
 * Student ID: 23BI14246
-* Student Group ID: Not-for-now
+* Student Group ID: 3
